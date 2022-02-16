@@ -1,0 +1,16 @@
+*{
+    box-sizing: border-box;
+}
+.box{
+    padding: 30px;
+    border: blue solid 3px;
+}
+.P1{
+height: 900px;
+}
+.icon{
+    grid-template-columns: 30px 30px 30px;
+    border: solid green 2px;
+    min-height: 20px;
+    display: inline;
+}
